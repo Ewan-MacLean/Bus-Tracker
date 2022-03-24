@@ -1,4 +1,1 @@
-Displays a map in the browser
-Fetches real-time transit data information data from the Leaflet API
-Plots markers on the map to display the current position of vehicles.
-Added functionality that will cause the map to auto refresh after a specified interval of time.
+Created a view of the City of Halifax using the Google Maps API, then populated the map with coordinate data from Leaflet to get the live locations of buses in my city. Each bus is indicated with an icon of a bus, and when clicked on reveals route number and direction.
